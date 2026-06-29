@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm / IDE
+.idea/
+.vscode/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Selenium / Webdrivers
+chromedriver.exe
+geckodriver.exe
+msedgedriver.exe
+IEDriverServer.exe
+
+# Environment variables
+.env
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Crawling data / outputs
+data/
+outputs/
+*.csv
+*.xlsx
+*.json
+
+# For LLM Context
+checkpoint/
